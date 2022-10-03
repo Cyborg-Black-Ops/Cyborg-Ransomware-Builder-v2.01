@@ -2,7 +2,8 @@
 
 Cyborg Builder Ransomware V2.0.1 - Advanced Ransomware
 
-This Cryptography Created  using the RSA-2048 encryption algorithm Advanced encryption 
+This Cryptography Created  using the RSA-2048 encryption algorithm Advanced encryption
+ 
 ✓1*  License Agreement Approval
 
 ✓2* You are responsible for any illegal use
@@ -15,8 +16,7 @@ This Cryptography Created  using the RSA-2048 encryption algorithm Advanced encr
 
 ✓6* you are responsible for Testing Ransomware On Your Computer
 
-Video Demo [Video](https://t.me/CyborgHawk_Store/9)
-Password Contact Me [Cyborg-Store](https://t.me/RHStoreID)
+Video Demo [Video](https://t.me/CyborgHawk_Store/9) | Password Contact Me [Cyborg-Store](https://t.me/RHStoreID)
 
 
 BTC1: 39g9nRoWSjakg8uYfFrEQLjUPwQQRVPXDc
